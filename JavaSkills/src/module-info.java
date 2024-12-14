@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sushi
+ *
+ */
+module JavaSkills {
+}
